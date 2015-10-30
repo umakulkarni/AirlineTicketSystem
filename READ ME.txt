@@ -1,0 +1,34 @@
+CSE 598:Distributed Software Development
+Assignment 02
+
+TEAM 598 VOID MAIN
+Uma Kulkarni         1207684864
+Veena Sunder Rajan   1207769429
+
+The project is coded and executed on Microsoft Visual Studio 2013.
+
+Usage Instructions:
+1. Run the Visual Studio Solution as a Console Application
+2. Press Enter to begin and end the execution of the program
+
+The order placed by the travel agency with the order details is displayed.
+Once the order is processed the order status is displayed along with it's confirmation.
+
+Order details:
+
+Which travel agency placed the order and to which airline it placed it for. 
+The price of the ticket and the number of tickets.
+
+Order Status:
+
+Which travel agency placed the order for which airline and the number of tickets requested.
+Along with this the price of each ticket and the the card to which it was charged.
+The status of the order is also displayed if processed or not.  
+
+The program runs for 10 price cuts of each airline and then terminates. 
+Please note that there might be delay in sending and recieving order as no price cuts are taking place. 
+Please have patience, program will exit cleanly.
+
+Work Distribution 
+50% - 50%
+ 
